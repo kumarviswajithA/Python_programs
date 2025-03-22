@@ -20,5 +20,5 @@ for j in range(my_time, 0 ,-1):
     time.sleep(0.25)
 print("Times up!")
 
-# viswa
+
 
