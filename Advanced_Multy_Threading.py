@@ -1,4 +1,4 @@
-# Multi-Threading :  It just like multiprocessing , multithreading is a way of acheving multitasking.
+# Multi-Threading :  It just like multiprocessing , multithreading is a way of acheveing multitasking.
 
 import threading
 import time
